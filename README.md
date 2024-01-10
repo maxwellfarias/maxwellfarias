@@ -8,7 +8,7 @@
 struct Developer: Codable {
 
  let name: String = "Maxwell Farias"
- let title: String = "Senior iOS Engineer"
+ let title: String = "iOS Engineer"
  let yearsOfExperience: Int = 2
  
  var primarySkills:[String] = ["Swift", "Combine", "UIKit", "SwiftUI", "Unit/UI Testing"] 
