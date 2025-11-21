@@ -1,4 +1,4 @@
-![appleWallpaper](https://user-images.githubusercontent.com/40673749/214223068-e5abec1f-8456-4980-aff3-3e3779541d99.jpg)
+![cover](https://github.com/maxwellfarias/maxwellfarias/blob/main/cover.jpeg)
 ## About me 📱💻
 ```swift
 struct Developer: Codable {
