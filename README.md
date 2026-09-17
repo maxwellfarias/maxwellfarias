@@ -36,8 +36,6 @@ public sealed class Developer
         ".NET",
         "ASP.NET Core",
         "REST APIs",
-        "Entity Framework Core",
-        "HttpClient",
         "Background Workers",
         "Webhooks",
         "SignalR"
@@ -48,8 +46,6 @@ public sealed class Developer
         "Docker",
         "Docker Compose",
         "Linux",
-        "Reverse Proxy",
-        "HTTPS",
         "Application Deployment"
     ];
 
@@ -64,8 +60,6 @@ public sealed class Developer
     [
         "Clean Architecture",
         "Vertical Slice Architecture",
-        "Repository Pattern",
-        "Dependency Injection",
         "SOLID",
         "Multi-Tenant Architecture"
     ];
