@@ -1,4 +1,4 @@
-![cover](https://github.com/maxwellfarias/maxwellfarias/blob/main/cover.jpeg)
+![cover](https://github.com/maxwellfarias/maxwellfarias/blob/main/cover.jpg)
 
 # Hi, I'm Maxwell Farias 👋
 
